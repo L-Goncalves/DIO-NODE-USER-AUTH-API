@@ -11,7 +11,11 @@
   "author": "Lucas Gonçalves",
   "license": "ISC",
   "devDependencies": {
+    "@types/express": "^4.17.1",
     "@types/node": "^17.0.21",
     "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
