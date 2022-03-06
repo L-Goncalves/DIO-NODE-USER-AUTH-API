@@ -14,3 +14,12 @@ Para você que está visualizando esse repositório você pode também fazer ess
 
 - [x] Retorno de Status codes.
 - [x] CRUD de demonstração sem banco de dados.
+
+
+<p>Rota de usuarios:</p>
+<ol type="a">
+  <li>GET: /users</li>
+  <li>GET: /users/:uuid</li>
+  <li>PUT: /users/:uuid</li>
+  <li>DELETE: /users/:uuid</li>
+</ol>
