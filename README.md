@@ -10,7 +10,7 @@ Esse microserviço foi criado durante um bootcamp da Digital Innovation One para
 Para você que está visualizando esse repositório você pode também fazer esse curso aqui ➡ https://bit.ly/3KncOv2
 
 
-## Você pode usar métodos como DELETE, PUT, POST E GET
+### Features
 
-
-Nas seguintes rotas: 
+- [x] Retorno de Status codes.
+- [x] CRUD de demonstração sem banco de dados.
