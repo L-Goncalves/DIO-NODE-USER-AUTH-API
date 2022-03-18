@@ -2,7 +2,7 @@
 Microservice criado durante bootcamp da DIO
 
 <h4 align="center"> 
-	✅  Microserviço de autenticação | Concluído ✅
+	⚠  Microserviço de autenticação | Em andamento ⚠
 </h4>
 
 Esse microserviço foi criado durante um bootcamp da Digital Innovation One para aplicar alguns conceitos básicos de API's com Node JS e Typescript
